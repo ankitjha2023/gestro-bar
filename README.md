@@ -10,7 +10,7 @@ Gestro Bar is a restaurant website built using pure HTML and CSS. The website is
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/gestro-bar.git
+git clone https://github.com/gestro-bar/gestro-bar.git
 ```
 2. Open the project folder.
 3. Double-click on the index.html file to open it in your web browser.
