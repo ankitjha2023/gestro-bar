@@ -1,0 +1,166 @@
+@media (min-width:900px) {
+    .about-right img{
+        width: 250px;
+        
+    }
+    .about-left{
+        width: 50%;
+        /* margin: 0px 10px; */
+    } 
+    .blog-box{
+        margin: 30px;
+    }
+}
+@media (max-width:900px) {
+    .blog-upper p{
+        padding: 0px 30px;
+    }
+    .blog-row{
+        margin-top: 30px;
+    }
+    .blog-box{
+        width: 300px;
+        margin:10px;
+    }
+    .navlist a{
+        margin: 10px;
+    }
+    header{
+        height: 100vh;
+    }
+    .heading p{
+        font-size: 30px;
+        margin: 0px 20px;
+    }
+    .upper-navbar{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .upper-left{
+        width: 100%;
+        justify-content: space-between;
+    }
+    .upper-right{
+
+        flex-direction: column;
+    }
+    #about{
+        flex-direction: column;
+        padding: 20px 0px;
+    }
+    .about-left{
+        width: 100%;
+        padding:30px;
+    }
+    
+    .about-right{
+        width: 100%;
+    }
+    .about-right img{
+        width: 250px;
+    }
+    .chef-img{
+        width: 100%;
+    }
+    .chef-para{
+        margin-top: 50px;
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+    .chef-para p{
+        padding: 0px 20px;
+    }
+    .chef-para h2{
+        font-size: 30px;
+    }
+    .upper-review p{
+        width: 100%;
+        padding: 0px 20px;
+    }
+    .review-box{
+        width: 250px;
+    }
+    .footer-upper p{
+        width: 100%;
+        padding: 0px 30px;
+    }
+}
+
+@media (max-width:560px) {
+     .upper-navbar{
+        display: none;
+     }
+    .navlist{
+        flex-wrap: wrap;
+    }
+    .heading h1{
+        font-size: 30px;
+        padding: 10px;
+    }
+    .heading p{
+        font-size: 20px;
+    }
+    .about-left{
+        width: 100%;
+        padding: 20px;
+    }
+   
+    .about-right img{
+        width: 180px;
+
+    }
+    .upper-review h2{
+        font-size: 30px;
+        
+    }
+    .review-box{
+        width: 100%;
+        margin: 10px 30px;
+        padding: 10px;
+    }
+    .navlist a{
+        margin: 10px;
+    }
+   
+}
+
+
+@media (max-width:682px) {
+    .menu-box{
+        width: 100%;
+        align-items: center;
+        text-align: center;
+    }
+    .blog-upper p{
+        width: 100%;
+    }
+    .blog-row{
+        flex-direction: column;
+
+    }
+    .blog-box{
+        width: 80%;
+        /* width: 100%; */
+        
+        margin: 30px 0px;
+    }
+    .by p{
+        font-size: small;
+    } 
+    .review-box{
+        padding: 20px;
+        margin: 20px 10px;
+    }
+    
+}
+
+@media (max-width:400px) {
+    #about img{
+        display: none;
+    }
+    .footer-lower{
+        flex-direction: column;
+        gap: 10px;
+    }
+}
