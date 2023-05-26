@@ -2,6 +2,8 @@
 Gestro Bar is a restaurant website built using pure HTML and CSS. The website is fully responsive, providing an optimal viewing experience across a wide range of devices.
 
 ## Preview
+![image](https://github.com/ankitjha2023/gestro-bar/assets/127032700/ab6bc32c-fa66-4f5b-aeb5-f94a9b49f2d5)
+
 
 ## Installation
 
